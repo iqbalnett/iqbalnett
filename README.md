@@ -8,11 +8,11 @@ I'm **Iqbal**. I hold a bachelor's degree in Information Technology and build pr
 
 ## 📚 Projects
 
-| Project | Live product | What it does |
+| Project | Live | What it does |
 | --- | --- | --- |
 | [FlowJob](https://github.com/iqbalnett/flowjob-showcase) | [Website](https://www.flowjob.id/) | Futures education and a Trading Journal for planning and reviewing decisions. |
 | [FlowStore](https://github.com/iqbalnett/flowstore-showcase) | [Website](https://flowstore.digital/) | Digital-service catalog, membership comparison, checkout, and a customer dashboard. |
-| [FlowStream](https://flowstreamid.vercel.app/) | [Website](https://flowstreamid.vercel.app/) | Sports schedules with search, sport/time filters, and Indonesian/English navigation. |
+| [FlowStream](https://flowstreamid.vercel.app/) | [Website](https://flowstreamid.vercel.app/) | Sports schedules, search, sport and time filters, with ID/EN language support. |
 
 FlowJob and FlowStore link to public case studies; application source code and customer data remain private. FlowStream uses third-party schedule and embedded-stream providers.
 
