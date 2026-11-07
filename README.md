@@ -10,9 +10,9 @@ I'm **Iqbal**. I hold a bachelor's degree in Information Technology and build pr
 
 | Project | Live | What it does |
 | --- | --- | --- |
-| [FlowJob](https://github.com/iqbalnett/flowjob-showcase) | [Website](https://www.flowjob.id/) | Futures education and a Trading Journal for planning and reviewing decisions. |
-| [FlowStore](https://github.com/iqbalnett/flowstore-showcase) | [Website](https://flowstore.digital/) | Digital-service catalog, membership comparison, checkout, and a customer dashboard. |
-| [FlowStream](https://flowstreamid.vercel.app/) | [Website](https://flowstreamid.vercel.app/) | Sports schedules, search, sport and time filters, with ID/EN language support. |
+| [FlowJob](https://github.com/iqbalnett/flowjob-showcase)<br>Founder | [Website](https://www.flowjob.id/) | Futures education and a Trading Journal for planning and reviewing decisions. |
+| [FlowStore](https://github.com/iqbalnett/flowstore-showcase)<br>Founder | [Website](https://flowstore.digital/) | Digital-service catalog, membership comparison, checkout, and a customer dashboard. |
+| [FlowStream](https://flowstreamid.vercel.app/)<br>Founder | [Website](https://flowstreamid.vercel.app/) | Sports schedules, search, sport and time filters, with ID/EN language support. |
 
 FlowJob and FlowStore link to public case studies; application source code and customer data remain private. FlowStream uses third-party schedule and embedded-stream providers.
 
@@ -20,15 +20,15 @@ FlowJob and FlowStore link to public case studies; application source code and c
 
 | Project | Focus & scope |
 | --- | --- |
-| **FlowGex** | Options analytics, historical replay, and market visualization. Private engineering project; licensed market data and journals are not published. |
-| **Toba Journeys** | Bilingual tourism website with destination filters and itinerary inquiries. Not a booking or payment engine; no verified public deployment. |
-| **Brew Theory** | Coffee tutorials and a recipe calculator built with React and TypeScript. Local frontend project. |
-| **Zora Conviction Engine** | Market analysis and content planning for a private team. Not a publicly launched SaaS product. |
-| **Flow Macro** | Macro context, news, and calendar views within the FlowJob project family. Not listed as a separate public product. |
-| **FlowGreeks** | Python and Go implementations exploring options analytics, ingestion, and replay. Research and engineering work with remaining validation and production-readiness limits. |
-| **MASS VIDEO GEN / FlowRouter** | Local Node.js dashboard for video-generation task queues, batch workers, render status, and story workflows. Uses third-party generation tools; account and browser-session data remain private. |
-| **Dilema Dika Animation Studio** | Indonesian 2D animation production with React, TypeScript, and Remotion: character compositions, storyboards, dialogue cues, and motion reviews. In development, not a published series. |
-| **Educational Video Pipeline** | Financial explainers combining Manim diagrams, Remotion compositing, Python narration processing, subtitles, and FFmpeg mastering. Local production work; final editorial and media-rights review remains necessary. |
+| **FlowGex**<br>Founder | Options analytics, historical replay, and market visualization. Private engineering project; licensed market data and journals are not published. |
+| **Toba Journeys**<br>Founder | Bilingual tourism website with destination filters and itinerary inquiries. Not a booking or payment engine; no verified public deployment. |
+| **Brew Theory**<br>Founder | Coffee tutorials and a recipe calculator built with React and TypeScript. Local frontend project. |
+| **Zora Conviction Engine**<br>Founder | Market analysis and content planning for a private team. Not a publicly launched SaaS product. |
+| **Flow Macro**<br>Founder | Macro context, news, and calendar views within the FlowJob project family. Not listed as a separate public product. |
+| **FlowGreeks**<br>Founder | Python and Go implementations exploring options analytics, ingestion, and replay. Research and engineering work with remaining validation and production-readiness limits. |
+| **MASS VIDEO GEN / FlowRouter**<br>Founder | Local Node.js dashboard for video-generation task queues, batch workers, render status, and story workflows. Uses third-party generation tools; account and browser-session data remain private. |
+| **Dilema Dika Animation Studio**<br>Founder | Indonesian 2D animation production with React, TypeScript, and Remotion: character compositions, storyboards, dialogue cues, and motion reviews. In development, not a published series. |
+| **Educational Video Pipeline**<br>Founder | Financial explainers combining Manim diagrams, Remotion compositing, Python narration processing, subtitles, and FFmpeg mastering. Local production work; final editorial and media-rights review remains necessary. |
 
 These entries describe local or private work, not verified public launches. Source code, private records, and licensed datasets remain unpublished.
 
