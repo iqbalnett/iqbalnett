@@ -16,6 +16,20 @@ I'm **Iqbal**. I hold a bachelor's degree in Information Technology and build pr
 
 FlowJob and FlowStore link to public case studies; application source code and customer data remain private. FlowStream uses third-party schedule and embedded-stream providers.
 
+### Engineering & local projects
+
+| Project | Focus & scope |
+| --- | --- |
+| **FlowGex** | Options analytics, historical replay, and market visualization. Private engineering project; licensed market data and journals are not published. |
+| **Toba Journeys** | Bilingual tourism website with destination filters and itinerary inquiries. Not a booking or payment engine; no verified public deployment. |
+| **Brew Theory** | Coffee tutorials and a recipe calculator built with React and TypeScript. Local frontend project. |
+| **Zora Conviction Engine** | Market analysis and content planning for a private team. Not a publicly launched SaaS product. |
+| **Posyandu Home Visit Form** | Multi-step forms, signatures, local drafts, and print output. Publication requires institutional permission and a privacy review. |
+| **Flow Macro** | Macro context, news, and calendar views within the FlowJob project family. Not listed as a separate public product. |
+| **FlowGreeks** | Python and Go implementations exploring options analytics, ingestion, and replay. Research and engineering work with remaining validation and production-readiness limits. |
+
+These entries describe local or private work, not verified public launches. Source code, private records, and licensed datasets remain unpublished.
+
 ## 👔 Experience
 
 | Role | Focus |
@@ -49,7 +63,4 @@ FlowJob and FlowStore link to public case studies; application source code and c
 
 ## Socials
 
-[![Instagram](https://img.shields.io/badge/Instagram-ib.872haueterg-A52A70?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ib.872haueterg/)
-[![GitHub](https://img.shields.io/badge/GitHub-iqbalnett-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iqbalnett)
-[![FlowJob](https://img.shields.io/badge/Website-FlowJob-1F6FEB?style=for-the-badge)](https://www.flowjob.id/)
-[![FlowStore](https://img.shields.io/badge/Website-FlowStore-9B411B?style=for-the-badge)](https://flowstore.digital/)
+[![Instagram](https://img.shields.io/badge/Instagram-A52A70?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ib.872haueterg/)
