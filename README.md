@@ -32,10 +32,13 @@ These entries describe local or private work, not verified public launches. Sour
 
 ## 👔 Experience
 
-| Role | Focus |
+I work in finance and technology consulting and build software independently. The experience below reflects my project work, not a list of employer-held positions.
+
+| Area | Selected work |
 | --- | --- |
-| Consultant | Finance and technology. |
-| Founder & Solo Developer | Product design, full-stack development, and operations for FlowJob and FlowStore. |
+| **Product development** | Founded and built FlowJob and FlowStore as a solo developer, covering public websites, customer workspaces, authentication, payment workflows, access control, and operational dashboards. |
+| **Market analytics engineering** | Developed options analytics, data ingestion, replay, and visualization across FlowGex and FlowGreeks, alongside macro-context tools in the FlowJob project family. Research implementations remain distinct from production-verified systems. |
+| **Independent web development** | Built sports-schedule browsing in FlowStream, tourism inquiry flows in Toba Journeys, a coffee recipe calculator in Brew Theory, and multi-step forms with local drafts and print output for Posyandu home visits. |
 
 ## 🎓 Education
 
