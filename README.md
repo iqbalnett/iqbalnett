@@ -1,33 +1,39 @@
-# Iqbal
+![Iqbal: founder, developer, consultant; FlowJob and FlowStore](assets/banner.svg)
 
-**Founder & Solo Developer** yang merancang, membangun, dan mengembangkan produk digital dari pengalaman pengguna sampai sistem di belakangnya.
+## Hi There! 👨‍💻
 
-Saya bekerja pada dua produk dengan kebutuhan berbeda: FlowJob menghubungkan pembelajaran trading dengan kebiasaan meninjau keputusan; FlowStore memudahkan pelanggan memilih dan menggunakan layanan digital sesuai paketnya. Keduanya saya dokumentasikan sebagai studi kasus, bukan sebagai repositori source code aplikasi.
+I'm **Iqbal**. I hold a bachelor's degree in Information Technology and build products at the intersection of finance and technology.
 
-## Produk yang saya bangun
+- I currently work in consulting across finance and tech.
+- I founded and built FlowJob and FlowStore as a solo developer.
+- I'm interested in making useful products that people return to, not just projects that look good in a demo.
 
-### 01 / FlowJob
+## 📚 Projects
 
-**Belajar membaca pasar. Mencatat keputusan. Meninjau prosesnya.**
+| Project | Live product | What it does |
+| --- | --- | --- |
+| [FlowJob](https://github.com/iqbalnett/flowjob-showcase) | [Website](https://www.flowjob.id/) | Futures education and a Trading Journal for planning and reviewing decisions. |
+| [FlowStore](https://github.com/iqbalnett/flowstore-showcase) | [Website](https://flowstore.digital/) | Digital-service catalog, membership comparison, checkout, and a customer dashboard. |
 
-FlowJob memadukan Bootcamp edukasi futures dan Trading Journal. Jalur belajar membahas Pondasi, Order Flow, Options Flow, dan Makro; jurnal membantu pengguna menyusun rencana, mencatat trade, dan meninjau pola keputusan. Saya mengerjakan pengalaman belajar dan jurnal, akun anggota, integrasi pembayaran, serta alat operasionalnya.
+These repositories are **product case studies**, not application source code. They document public-facing features and system responsibilities without publishing credentials, customer data, or private implementation details.
 
-[**Baca studi kasus dan arsitektur →**](https://github.com/iqbalnett/flowjob-showcase) · [Kunjungi FlowJob](https://www.flowjob.id/)
+## 👔 Experience
 
-[![Beranda publik FlowJob dengan visualisasi pasar dan pintu masuk jalur belajar](https://raw.githubusercontent.com/iqbalnett/flowjob-showcase/main/images/homepage.webp)](https://github.com/iqbalnett/flowjob-showcase)
+| Role | Focus |
+| --- | --- |
+| Consultant | Finance and technology. |
+| Founder & Solo Developer | Product design, full-stack development, and operations for FlowJob and FlowStore. |
 
-### 02 / FlowStore
+## 🎓 Education
 
-**Dari memilih paket sampai kembali menggunakan layanan.**
+- Bachelor's degree in Information Technology.
 
-FlowStore menghubungkan katalog layanan digital, perbandingan membership, checkout, dan dashboard pelanggan. Saya membangun alur produk dari etalase dan akun sampai pengalaman akses layanan serta panel operasional. Penggunaan FlowStore Bridge ditujukan untuk browser desktop yang didukung.
+## 🛠 Technologies I Use
 
-[**Baca studi kasus dan arsitektur →**](https://github.com/iqbalnett/flowstore-showcase) · [Kunjungi FlowStore](https://flowstore.digital/)
+- **Frontend:** React, Next.js, TypeScript, Tailwind CSS
+- **Backend & data:** Node.js, PostgreSQL, Supabase
+- **Product workflows:** Authentication, payment integrations, member access, and operational tools
 
-[![Beranda publik FlowStore dengan katalog dan pilihan membership](https://raw.githubusercontent.com/iqbalnett/flowstore-showcase/main/images/homepage.webp)](https://github.com/iqbalnett/flowstore-showcase)
+## Socials
 
-## Cara saya bekerja
-
-Saya memulai dari masalah yang perlu diselesaikan pengguna, lalu menghubungkan keputusan antarmuka dengan alur data dan operasi produk. Proyek-proyek ini dibangun dengan **Next.js, React, TypeScript, Tailwind CSS, dan PostgreSQL/Supabase**; rincian peran komponen dan batas tiap studi kasus ada di repositorinya.
-
-Repositori di atas berisi dokumentasi dan gambar halaman publik. Source aplikasi, konfigurasi deployment, kredensial, dan data pelanggan tidak dipublikasikan. Untuk melihat perilaku produk serta penawaran terkini, kunjungi website masing-masing.
+[GitHub](https://github.com/iqbalnett) · [FlowJob](https://www.flowjob.id/) · [FlowStore](https://flowstore.digital/)

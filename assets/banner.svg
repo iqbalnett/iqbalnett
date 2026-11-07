@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Iqbal, finance and technology product builder</title>
+  <desc id="desc">A monochrome banner with Iqbal's name and the projects FlowJob and FlowStore linked by a single line.</desc>
+  <rect width="1200" height="320" fill="#141414"/>
+  <text x="64" y="64" fill="#c9c9c9" font-family="Arial, Helvetica, sans-serif" font-size="17" letter-spacing="2">FOUNDER  /  DEVELOPER  /  CONSULTANT</text>
+  <text x="58" y="222" fill="#fafafa" font-family="Arial, Helvetica, sans-serif" font-size="168" font-weight="700" letter-spacing="-9">IQBAL</text>
+  <path d="M 64 267 H 1136" fill="none" stroke="#9a9a9a" stroke-width="2"/>
+  <circle cx="64" cy="267" r="5" fill="#fafafa"/>
+  <circle cx="1136" cy="267" r="5" fill="#fafafa"/>
+  <text x="64" y="300" fill="#f0f0f0" font-family="Arial, Helvetica, sans-serif" font-size="19">FlowJob</text>
+  <text x="1136" y="300" fill="#f0f0f0" font-family="Arial, Helvetica, sans-serif" font-size="19" text-anchor="end">FlowStore</text>
+</svg>
