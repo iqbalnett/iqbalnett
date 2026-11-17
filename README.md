@@ -1,201 +1,104 @@
-# Hi There! 👨‍💻
+# Hi There! 👨‍💻 I'm Iqbal.
 
-I'm **Iqbal**. I hold a bachelor's degree in Information Technology and build products at the intersection of finance and technology.
+### Full-stack development, with the whole product in mind.
 
-I work in consulting across finance and tech, and I founded and built **FlowJob** and **FlowStore** as a solo developer. My work connects the public website with what happens next: accounts, payments, customer workspaces, and the tools needed to operate them.
+I build web products from the first screen to the workflows people come back for: accounts, payments, personal workspaces, and the tools that keep them running.
 
-I'm interested in making useful products that people return to, not just projects that look good in a demo.
+I'm the founder and solo developer of **FlowJob** and **FlowStore**, and I also built **FlowStream**. Alongside consulting across finance and technology, these projects are where I put product thinking and engineering into practice. I care about the details between features, not only how they look in isolation.
 
 **React · Next.js · TypeScript · PostgreSQL**  
-Based in Medan, Indonesia. Open to frontend and full-stack opportunities, onsite in Medan or remote.
+Medan, Indonesia · Bachelor's degree in Information Technology  
+Open to frontend and full-stack opportunities in Medan or remotely.
 
-## Selected work
+[FlowJob](https://www.flowjob.id/) · [FlowStore.digital](https://flowstore.digital/) · [FlowStream](https://flowstreamid.vercel.app/) · [Instagram](https://www.instagram.com/ib.872haueterg/)
+
+## Three products, three different problems
 
 ### FlowJob
 **Futures education & Trading Journal · Founder & Solo Developer**
 
-A learning platform paired with a journal for planning trades, recording decisions, and reviewing what happened. The journal is a recordkeeping tool, not a brokerage account or a trading-signal service.
+Learning about markets and reviewing your own decisions are often separate activities. I built FlowJob to connect a structured learning path with a journal for plans, trades, and daily reflection.
 
-[Read the case study](https://github.com/iqbalnett/flowjob-showcase) · [Visit FlowJob](https://www.flowjob.id/)
+<a href="https://github.com/iqbalnett/flowjob-showcase"><img src="https://raw.githubusercontent.com/iqbalnett/flowjob-showcase/main/images/homepage.webp" alt="FlowJob public homepage introducing its market-learning framework with a Volume Profile illustration." width="800"></a>
 
-<a href="https://github.com/iqbalnett/flowjob-showcase">
-  <img src="https://raw.githubusercontent.com/iqbalnett/flowjob-showcase/main/images/homepage.webp" alt="FlowJob public homepage: a Volume Profile visualization introduces the market-context learning framework." width="720">
-</a>
+**My scope**
 
-- **Built:** the public website, learning workspace, account-based journal, analytics, authentication, payment workflows, and operational dashboards.
-- **Engineering focus:** keep identity separate from access rights; confirm payments on the server before granting access; organize journal records around accounts, models, and daily reviews.
-- **Stack:** Next.js, React, TypeScript, Tailwind CSS, Supabase/PostgreSQL. The project uses Vitest and Playwright for testing.
+- **Product and frontend:** the public website, curriculum navigation, learning workspace, and user documentation.
+- **Application workflows:** account-based journals, setup models, trade records, daily reviews, and analytics.
+- **Full-stack delivery:** authentication, payment-to-access workflows, and member and administrative interfaces.
 
-### FlowStore
+**A decision that matters:** signing in is not the same as having paid access. I separated identity from access rights and made server-confirmed payment the basis for granting access. In the journal, records connect to accounts and setup models so a review can examine the decision, not just the result.
+
+<img src="https://raw.githubusercontent.com/iqbalnett/flowjob-showcase/main/images/journal-guide-desktop.webp" alt="FlowJob public journal documentation with navigation for accounts, models, trades, and daily reviews." width="800">
+
+*Public journal guide, not a customer's trading history. FlowJob is an education and recordkeeping product, not a brokerage or signal service.*
+
+**Built with:** Next.js, React, TypeScript, Tailwind CSS, Supabase/PostgreSQL. Testing tools include Vitest and Playwright.
+
+[Read the FlowJob case study](https://github.com/iqbalnett/flowjob-showcase) · [Visit the website](https://www.flowjob.id/) · [Read the journal guide](https://www.flowjob.id/docs/welcome?lang=id)
+
+---
+
+### FlowStore.digital
 **Digital-service catalog & membership workspace · Founder & Solo Developer**
 
-A product journey from browsing a catalog and comparing memberships to checkout and a returning customer's dashboard.
+A large catalog is useful only if people can understand their choices and find their way back after buying. I built FlowStore around that journey: discover a service, compare memberships, complete checkout, and return to a personal workspace.
 
-[Read the case study](https://github.com/iqbalnett/flowstore-showcase) · [Visit FlowStore](https://flowstore.digital/)
+<a href="https://github.com/iqbalnett/flowstore-showcase"><img src="https://raw.githubusercontent.com/iqbalnett/flowstore-showcase/main/images/homepage.webp" alt="FlowStore public homepage introducing memberships and a preview of its digital-service catalog." width="800"></a>
 
-<a href="https://github.com/iqbalnett/flowstore-showcase">
-  <img src="https://raw.githubusercontent.com/iqbalnett/flowstore-showcase/main/images/homepage.webp" alt="FlowStore public homepage with membership entry points and a catalog preview, not a customer's dashboard." width="720">
-</a>
+**My scope**
 
-- **Built:** catalog search and categories, membership comparison, account flows, checkout, customer dashboards, and operational tools.
-- **Engineering focus:** preserve package choices through registration; distinguish loading, empty, and failed states; keep search and filters usable during dashboard refreshes.
-- **Stack:** Next.js, React, TypeScript, Tailwind CSS, Supabase/PostgreSQL, and QRIS payment integration. Service access uses FlowStore Bridge on supported desktop browsers.
+- **Discovery and selection:** searchable categories, package comparison, duration choices, and responsive catalog layouts.
+- **Purchase and return visits:** registration, sign-in, QRIS checkout, order status, and membership-aware dashboards.
+- **Product operations:** interfaces for orders, customers, catalog management, and the supported desktop-browser Bridge experience.
 
-<sub>Both previews are public-page screenshots captured on November 7, 2026, not customer workspaces. The linked repositories are case studies, not application source releases. Product availability and offers may change.</sub>
+**A decision that matters:** a refresh should not erase the user's context. I distinguished first load from background refresh, kept search and filters available, and treated a failed refresh differently from a successful empty result. Package and duration choices also carry through the account flow.
+
+<img src="https://raw.githubusercontent.com/iqbalnett/flowstore-showcase/main/images/catalog-desktop.webp" alt="FlowStore public catalog with category filters, search, and membership labels beside services." width="800">
+
+*Public catalog, not an authenticated customer dashboard. Service availability and offers can change; Bridge use requires a supported desktop browser.*
+
+**Built with:** Next.js, React, TypeScript, Tailwind CSS, Supabase/PostgreSQL, and QRIS payment integration.
+
+[Read the FlowStore case study](https://github.com/iqbalnett/flowstore-showcase) · [Visit FlowStore.digital](https://flowstore.digital/)
+
+---
 
 ### FlowStream
-**Sports-schedule browsing · Founder**
+**Sports-schedule discovery · Independent Web Project**
 
-Search matches, filter by sport and time, and switch between Indonesian and English. Schedules and embedded streams use third-party providers; provider content and availability are outside the app's control.
+Finding a match should not mean searching through an undifferentiated list. I built a compact browsing interface around sport, time, and search, with Indonesian and English language options.
+
+<a href="https://flowstreamid.vercel.app/"><img src="https://raw.githubusercontent.com/iqbalnett/iqbalnett/main/assets/projects/flowstream.webp" alt="FlowStream public schedule with sport tabs, time filters, search, and grouped match cards." width="800"></a>
+
+**My scope**
+
+- **Frontend:** responsive schedule layouts, grouped match cards, sport tabs, time filters, and search.
+- **Interface states:** live/upcoming labels, no-results feedback, and language switching.
+- **Integration:** browser-side schedule retrieval and third-party embed entry points.
+
+**A decision that matters:** this product does not need the same framework footprint as an account-based application. I used HTML, CSS, and JavaScript for the browsing surface, while keeping provider availability separate from what the interface can promise.
+
+*The preview shows schedule discovery, not video playback. Listings and embedded content come from third parties; their accuracy, availability, and broadcast permissions are outside the scope of this portfolio.*
+
+**Built with:** HTML, CSS, JavaScript, and browser APIs. Search no-results feedback and Indonesian/English switching were checked on the public site during this profile review.
 
 [Visit FlowStream](https://flowstreamid.vercel.app/)
 
-<a href="https://flowstreamid.vercel.app/">
-  <img src="https://raw.githubusercontent.com/iqbalnett/iqbalnett/main/assets/projects/flowstream.webp" alt="FlowStream public sports schedule with sport tabs, search, and match cards; no video playback." width="720">
-</a>
+## What I bring to a team
 
-<sub>Public schedule captured on November 17, 2026. Third-party listings are shown as received, not independently verified fixtures or broadcast-rights claims.</sub>
+**Ownership across the product.** I am comfortable moving between interface work, data-backed workflows, integration boundaries, documentation, and operational needs. Building my own products has made me pay attention to what happens after a feature ships.
 
-## Web experiences & browser tools
+**Care with state and failure.** A selected package, pending payment, stale list, and empty search are different situations. I try to make those differences understandable instead of leaving users to guess.
 
-Working interfaces and local prototypes, shown here rather than hidden behind a gallery link. [Capture notes and complete project inventory](https://github.com/iqbalnett/iqbalnett/blob/main/PROJECTS.md).
+**Practical technical choices.** I use React and Next.js for account-based applications, PostgreSQL for structured data, and a lighter frontend when that fits the problem. I prefer explaining a trade-off to claiming that one stack solves everything.
 
-### Brew Theory
-**Interactive coffee calculator · React, TypeScript, Vite**
+These are independently built projects, not claims of employment at other companies. I am still learning, and I value clear feedback, thoughtful review, and working with people who care about the product.
 
-Adjust dose and brew ratio to calculate espresso yield and Americano water. In the local preview, changing the dose updated the calculated amounts immediately.
+## Let's work together
 
-<img src="https://raw.githubusercontent.com/iqbalnett/iqbalnett/main/assets/projects/brew-theory.png" alt="Brew Theory: Americano calculator with dose, ratio, yield, and water controls." width="720">
+I'm interested in frontend and full-stack work where I can contribute to both the interface and the workflows behind it.
 
-*Local application capture. No commercial cafe deployment is claimed.*
+**Medan or remote.** [Connect on Instagram](https://www.instagram.com/ib.872haueterg/) or explore the case studies above for a closer look at my work.
 
-### Shopee Market Lens
-**Manual product-research extension · JavaScript, Chrome Manifest V3**
-
-Capture public listings on demand, compare cohorts, inspect missing evidence, and configure research thresholds. The interface separates a research score from a purchase recommendation.
-
-<img src="https://raw.githubusercontent.com/iqbalnett/iqbalnett/main/assets/projects/market-lens.webp" alt="Shopee Market Lens: opportunity board and research controls in a clean browser profile." width="720">
-
-*Actual extension running with empty storage. No private seller research or invented rankings.*
-
-### Toba Journeys
-**Bilingual travel-planning frontend · HTML, CSS, JavaScript, Vite**
-
-Destination discovery, itinerary exploration, and inquiry flows for North Sumatra. The editorial section below shows the site's typography and travel narrative.
-
-<img src="https://raw.githubusercontent.com/iqbalnett/iqbalnett/main/assets/projects/toba-journeys.png" alt="Toba Journeys: editorial travel section from the actual local website." width="720">
-
-*Local prototype, not a booking engine. Photographs are excluded until attribution is resolved.*
-
-### CYBER DEMON
-**Educational resource catalogue · React, TypeScript, React Router, Tailwind CSS**
-
-A searchable collection of security and development resources. This sample shows the official-tools catalogue, not a scan result or access to private accounts.
-
-<img src="https://raw.githubusercontent.com/iqbalnett/iqbalnett/main/assets/projects/cyber-demon.png" alt="CYBER DEMON: official development and defensive-security tools catalogue." width="720">
-
-*Local frontend capture. The broader UI adapts a public design reference; configured backend operations are not demonstrated.*
-
-### Community-health visit form
-**Multi-step form workflow · HTML, CSS, JavaScript**
-
-Dynamic household rows, local drafts, print preparation, and photo previews. The empty second step below was reached through the actual form navigation.
-
-<img src="https://raw.githubusercontent.com/iqbalnett/iqbalnett/main/assets/projects/posyandu.png" alt="Community-health visit form: empty household table and step navigation, without patient data." width="720">
-
-*Anonymized sample published with permission. No institution branding, household records, signatures, or deployment claim.*
-
-### TokoDigital
-**Archived storefront prototype · Next.js, React**
-
-Category discovery and product pages for digital goods, with WhatsApp-order entry points. This section comes from the existing local build.
-
-<img src="https://raw.githubusercontent.com/iqbalnett/iqbalnett/main/assets/projects/tokodigital.png" alt="TokoDigital: digital-product category navigation in an archived storefront prototype." width="720">
-
-*Prototype only; contact configuration, fulfillment, and commercial offers are not verified.*
-
-## Analytics & research
-
-### FlowGex
-**Options analytics, replay & visualization · Python, browser UI**
-
-Explore exposure profiles and historical state in a browser workspace. The existing deterministic fixture provides a way to inspect the interface without publishing licensed market recordings.
-
-<img src="https://raw.githubusercontent.com/iqbalnett/iqbalnett/main/assets/projects/flowgex.webp" alt="FlowGex: analytics dashboard using deterministic synthetic test data, not a live exchange feed." width="720">
-
-**Synthetic-data demonstration.** Values and connection indicators belong to the fixture, not a live feed or verified trading result.
-
-### TradingStats Independent Trading Engine
-**Futures-indicator research · Python, FastAPI, browser dashboard**
-
-Research around retracements, standard-deviation levels, initial balance, gap behavior, session probabilities, and volume profiles.
-
-<img src="https://raw.githubusercontent.com/iqbalnett/iqbalnett/main/assets/projects/tradingstats.webp" alt="TradingStats: disconnected dashboard layout without populated indicator values." width="720">
-
-*Disconnected local presentation. No market records or analytical-accuracy claims are included.*
-
-**Other private research:** FlowGreeks covers options ingestion and replay in Python and Go; Flow Macro explores macro context; Zora Conviction Engine supports content planning and review. Their current captures are blocked, unconfigured, or not cleared for publication. [See each project's status](https://github.com/iqbalnett/iqbalnett/blob/main/PROJECTS.md#flowgreeks).
-
-## Animation, video & design
-
-### Dilema Dika
-**Indonesian 2D animation · React, TypeScript, Remotion**
-
-Character design, room blocking, storyboards, and motion studies for a slice-of-life series. This is a frame from the custom *Kirim Uang* storyboard.
-
-<img src="https://raw.githubusercontent.com/iqbalnett/iqbalnett/main/assets/projects/dilema-dika.png" alt="Dilema Dika: character and room blocking from the Kirim Uang storyboard." width="720">
-
-*Preproduction, not a released episode. The production setup adapts the [FreshStack What If toolkit](https://github.com/kelano86/what-if-animation); inherited example episodes are not claimed as original work.*
-
-### FlowRouter
-**Batch-video workstation · Node.js, browser JavaScript**
-
-Local tooling for generation queues, job routing, status, and saved-output review. Below is an actual retained output rather than an account-connected dashboard.
-
-<img src="https://raw.githubusercontent.com/iqbalnett/iqbalnett/main/assets/projects/flowrouter.png" alt="FlowRouter output: generated fictional-city video frame, not a filmed location or dashboard." width="720">
-
-*Generated output still. Account identities, session data, and signed download URLs remain private.*
-
-### Educational video pipeline
-**Explainer production · Python, FFmpeg; related Remotion & Manim studies**
-
-Assemble generated scenes, narration, subtitles, and explanatory graphics into chapter-based learning videos. This sample comes from an existing earlier assembly.
-
-<img src="https://raw.githubusercontent.com/iqbalnett/iqbalnett/main/assets/projects/educational-pipeline.png" alt="Educational video output: generated illustrative footage with Indonesian subtitles." width="720">
-
-*Generated illustration, not a real customer or live chart. No audio or later internally restricted chapters are distributed.*
-
-### Dua Dataran
-**Coffee-brand design concept · Storefront banners & listing graphics**
-
-A visual exploration for Gayo and Sidikalang coffee, including category graphics and product-listing layouts.
-
-<img src="https://raw.githubusercontent.com/iqbalnett/iqbalnett/main/assets/projects/dua-dataran.png" alt="Dua Dataran: existing coffee storefront banner design concept." width="720">
-
-*Existing design asset, not a live-shop screenshot. Product details and commercial claims require validation.*
-
-**Academic VFX:** my *Gargantula Boss* contribution to *Adventure: Boss Level* covers compositing, rotoscoping, tracking, effects layering, and color grading in After Effects. Frames remain private pending production/asset display permission.
-
-## Engineering decisions behind the visuals
-
-- **FlowJob:** separate identity from access rights and confirm payment before granting access.
-- **FlowStore:** preserve package choices across account flows and distinguish loading, empty, and failed states.
-- **Brew Theory:** make recipe calculations respond to input rather than present a static illustration.
-- **Market Lens:** show evidence quality separately from a research score.
-- **FlowGex:** demonstrate the interface with explicitly labeled synthetic inputs instead of exposing licensed records.
-
-This is independent project work alongside consulting, not a list of employment positions. [The complete inventory](https://github.com/iqbalnett/iqbalnett/blob/main/PROJECTS.md#additional-work-and-publication-limits) also records personal web experiments, marketing-image tooling, and withheld concepts. Duplicate worktrees and upstream tools are not counted as original products.
-
-**Publication boundary:** application source, credentials, customer records, browser sessions, and licensed datasets remain private. All previews above are actual captures or existing outputs; none is a fabricated product screenshot.
-
-## Technologies I use
-
-**Frontend:** React, Next.js, TypeScript, JavaScript, Tailwind CSS, HTML, CSS  
-**Backend & data:** Node.js, PostgreSQL, Supabase, Python  
-**Development & media:** Git, Remotion, FFmpeg
-
-## Education & connection
-
-Bachelor's degree in **Information Technology**.
-
-[Instagram](https://www.instagram.com/ib.872haueterg/) · [FlowJob case study](https://github.com/iqbalnett/flowjob-showcase) · [FlowStore case study](https://github.com/iqbalnett/flowstore-showcase)
+<sub>Portfolio boundary: case studies and public-page images only. Application source, credentials, customer records, browser sessions, and licensed data remain private. FlowJob and FlowStore images were captured November 7, 2026; FlowStream on November 17, 2026. Screenshots document the interface at capture time, not product scale, financial results, or a guarantee of current availability.</sub>
