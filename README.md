@@ -6,7 +6,7 @@ I'm **Iqbal**. I hold a bachelor's degree in Information Technology and build pr
 - I founded and built **FlowJob** and **FlowStore** as a solo developer, and I also built **FlowStream**.
 - I'm interested in making useful products that people return to, not just projects that look good in a demo.
 
-Based in **Medan, Indonesia**. Open to frontend and full-stack opportunities in Medan or remotely.
+Based in **Medan, Indonesia**.
 
 ## Projects
 
