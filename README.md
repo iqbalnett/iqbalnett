@@ -50,6 +50,19 @@ Search matches, filter by sport and time, and switch between Indonesian and Engl
 
 [Visit FlowStream](https://flowstreamid.vercel.app/)
 
+<a href="https://flowstreamid.vercel.app/">
+  <img src="assets/projects/flowstream.webp" alt="FlowStream public sports schedule with sport tabs, search, and match cards; no video playback." width="720">
+</a>
+
+<sub>Public schedule captured on November 17, 2026. Third-party listings are shown as received, not independently verified fixtures or broadcast-rights claims.</sub>
+
+### More than the live websites
+
+**[Browse the complete project gallery](PROJECTS.md)** for web prototypes, analytics research, browser tools, animation, and design work. Each entry distinguishes a public site, local preview, synthetic-data demonstration, or existing production output.
+
+<a href="PROJECTS.md#brew-theory"><img src="assets/projects/brew-theory.png" alt="Brew Theory's working Americano recipe calculator in a local preview." width="350"></a>
+<a href="PROJECTS.md#dilema-dika"><img src="assets/projects/dilema-dika.png" alt="Dilema Dika storyboard: character and room blocking, not a released episode." width="350"></a>
+
 ## How I approach the work
 
 - **Build beyond the landing page.** Connect interfaces to accounts, data, permissions, and the workflows people return to.
@@ -60,34 +73,14 @@ My experience here is independent project work, alongside consulting, rather tha
 
 ## Engineering & creative projects
 
-Beyond the featured products, I work on market analytics, smaller web experiences, and video-production tooling. These are private, local, or in-development projects, not additional verified public launches.
+The **[project gallery and status register](PROJECTS.md)** includes:
 
-<details>
-<summary><strong>Market analytics & research</strong> · FlowGex, FlowGreeks, Flow Macro, Zora</summary>
+- **Web & browser tools:** Toba Journeys, Brew Theory, Shopee Market Lens, CYBER DEMON, a community-health visit form, and the TokoDigital storefront prototype.
+- **Analytics & research:** FlowGex, FlowGreeks, TradingStats Independent Trading Engine, Flow Macro, and Zora Conviction Engine.
+- **Media & design:** FlowRouter, Dilema Dika, the educational video pipeline, Dua Dataran, and my academic compositing contribution to *Adventure: Boss Level*.
+- **Additional experiments:** personal portfolio sites, marketing-image tooling, and a fragrance-page concept. Their publication limits are recorded rather than hidden.
 
-- **FlowGex:** options analytics, historical replay, and market visualization. Private engineering work; licensed market data and journals are not published.
-- **FlowGreeks:** Python and Go implementations exploring options analytics, ingestion, and replay. Research work with remaining validation and production-readiness limits.
-- **Flow Macro:** macro context, news, and calendar views within the FlowJob project family, not a separate public product.
-- **Zora Conviction Engine:** market analysis and content planning for a private team, not a publicly launched SaaS product.
-
-</details>
-
-<details>
-<summary><strong>Independent web experiences</strong> · Toba Journeys, Brew Theory</summary>
-
-- **Toba Journeys:** a bilingual tourism website with destination filters and itinerary inquiries. Not a booking or payment engine; no verified public deployment.
-- **Brew Theory:** coffee tutorials and a recipe calculator built with React and TypeScript. Local frontend project.
-
-</details>
-
-<details>
-<summary><strong>Video automation & animation</strong> · FlowRouter, Dilema Dika, Educational Video Pipeline</summary>
-
-- **MASS VIDEO GEN / FlowRouter:** a local Node.js dashboard for video-generation task queues, batch workers, render status, and story workflows. Uses third-party generation tools.
-- **Dilema Dika Animation Studio:** Indonesian 2D animation production with React, TypeScript, and Remotion, covering character compositions, storyboards, dialogue cues, and motion reviews. In development, not a published series.
-- **Educational Video Pipeline:** financial explainers combining Manim diagrams, Remotion compositing, Python narration processing, subtitles, and FFmpeg mastering. Local production work; final editorial and media-rights review remains necessary.
-
-</details>
+Local prototypes are not presented as public launches. Blank, blocked, or unconfigured screens are not used to imply a working product. Third-party toolkits and duplicate worktrees are not counted as original products.
 
 Application source, credentials, customer records, browser-session data, and licensed datasets remain private.
 
